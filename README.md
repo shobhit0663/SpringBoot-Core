@@ -1,6 +1,8 @@
 PetStore & Mobile Management Project 🚀
 This repository contains two Spring Boot-based projects:
 
+
+PetStore – A comprehensive pet and product management system with secure transactions.
 Mobile Management 📱 – A CRUD-based application for managing mobile devices efficiently.
 Features
 PetStore
